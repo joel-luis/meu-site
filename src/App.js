@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { Icon } from 'react-icons-kit';
 import { linkedinSquare } from 'react-icons-kit/fa/linkedinSquare';
 import { github } from 'react-icons-kit/fa/github';
-import foto from './foto.jpg';
+import foto from './foto.jpeg';
 import './App.css';
 
 class App extends Component {
