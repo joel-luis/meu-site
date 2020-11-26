@@ -64,7 +64,7 @@ class App extends Component {
               <span>Javascript</span>
               <span>NodeJS</span>
               <span>TypeScript</span>
-              <span>MysSQL</span>
+              <span>MySQL</span>
               <span>HTML 5</span>
               <span>CSS 3</span>
               <span>Docker</span>
