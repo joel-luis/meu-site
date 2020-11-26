@@ -49,7 +49,7 @@ class App extends Component {
               muito focado em aplicações Frontend.
               </p>
               <p>
-                D Tenho 5 anos de experiência, atualmente venho me aprimorando na 
+                Tenho 5 anos de experiência, atualmente venho me aprimorando na 
                 stack Javascript, ReactJS, Git, MySQL, HTML 5 e CSS 3. 
                 Além de projetos reais estou sempre trabalhando em projetos 
                 como estudo para aprimorar meus conhecimentos e contribuir com 
